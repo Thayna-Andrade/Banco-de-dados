@@ -13,16 +13,24 @@ Repositório criado para organizar os materiais da disciplina de **Banco de Dado
 │ └── resolucao/ # Minhas resoluções
 │
 ├── AS/ # Atividades Avaliativas (AS)
-│ ├── enunciado/ # Enunciados das AS
-│ └── resolucao/ # Minhas resoluções
+│ ├── AS01/ # Primeira AS
+│ │ └── AS01.jpeg # Enunciado + resolução juntos
+│ ├── AS02/ # Segunda AS
+│ │ └── AS02.jpeg
+│ ├── AS03/ # Terceira AS
+│ │ └── AS03.jpeg
+│ └── ... # Demais AS (AS04, AS05...)
 │
 ├── Provas/ # Imagens de provas antigas
 │
 ├── Resumos/ # Resumos por capítulo do livro
 │ ├── Capitulo_1/
+│ │ └── Cap1.pdf
 │ ├── Capitulo_2/
+│ │ └── Cap2.pdf
 │ └── ...
 │
+└── README.md # Este arquivo
 ```
 
 ## 📖 Detalhamento das Pastas
@@ -33,7 +41,8 @@ Exercícios aplicados.
 
 ### 📝 AS (Atividades Avaliativas)
 Atividades que valem nota na disciplina.  
-- Organizadas da mesma forma que as Hands On.
+- Cada AS possui sua própria pasta numerada (AS01, AS02, AS03...).  
+- Dentro de cada pasta, imagens contendo **tanto o enunciado quanto a resolução** daquela atividade.
 
 ### 📸 Provas
 Imagens (fotos/scans) de provas anteriores para treino e revisão.
