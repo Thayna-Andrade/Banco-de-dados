@@ -6,7 +6,7 @@ Repositório criado para organizar os materiais da disciplina de **Banco de Dado
 > *Fundamentals of Database Systems*. 7ª ed. Pearson, 2016.
 
 ## 📁 Estrutura do Repositório
- ``
+ ```text
  /
 ├── Hands On/ # Atividades práticas (Hands On)
 │ ├── enunciado/ # Enunciados das atividades
@@ -23,7 +23,7 @@ Repositório criado para organizar os materiais da disciplina de **Banco de Dado
 │ ├── Capitulo_2/
 │ └── ...
 │
-``
+```
 
 ## 📖 Detalhamento das Pastas
 
